@@ -10,7 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="https://willmuijrers.github.io/Fllr/">Website</a> ·
   <a href="#build-it">Build it</a> ·
   <a href="#what-it-fills">What it fills</a> ·
   <a href="#where-the-content-comes-from">Content sources</a>
