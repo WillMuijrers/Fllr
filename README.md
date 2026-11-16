@@ -126,4 +126,7 @@ Fllr is a personal project in an early state. Comments in the source are in Dutc
 
 - No signed or notarised download, and no App Store version yet.
 - No app icon, launch at login or global shortcut yet.
-- The repository has no licence file yet, so all rights are reserved for now.
+
+## Licence
+
+Fllr is released under the [MIT licence](LICENSE). The bundled Phosphor icons are also MIT-licensed; their licence text is in `Resources/Icons`.
